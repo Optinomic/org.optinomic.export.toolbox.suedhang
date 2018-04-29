@@ -19,7 +19,7 @@ website = http://www.optinomic.com/
 
 
 [template export 6 7]
-__opapp_include(../lib/polymer/index.m4)
+__opapp_include(lib/polymer/index.m4)
 __opapp_include(elements/behavior-export-toolbox.html)
 __opapp_include(../org.optinomic.export.toolbox/elements/element-export.html)
 __opapp_include(../org.optinomic.export.toolbox/elements/element-filter.html)
@@ -27,7 +27,7 @@ __opapp_include(../org.optinomic.export.toolbox/elements/element-override-settin
 __opapp_include(../org.optinomic.export.toolbox/elements/view.html)
 
 [template create 6 7]
-__opapp_include(../lib/polymer/index.m4)
+__opapp_include(lib/polymer/index.m4)
 __opapp_include(../org.optinomic.export.toolbox/elements/timeu-wizard.html)
 __opapp_include(elements/behavior-export-toolbox.html)
 __opapp_include(../org.optinomic.export.toolbox/elements/element-select-datasource.html)
