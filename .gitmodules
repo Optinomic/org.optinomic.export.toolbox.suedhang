@@ -1,3 +1,6 @@
 [submodule "lib"]
 	path = lib
 	url = https://github.com/Optinomic/lib.git
+[submodule "org.optinomic.export.toolbox"]
+	path = org.optinomic.export.toolbox
+	url = git@github.com:Optinomic/org.optinomic.export.toolbox.git
